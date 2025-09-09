@@ -25,9 +25,9 @@ Business Tools: Excel (Pivot Tables, Power Query, Advanced Formulas).
 ## 💼 Experience
 
 Freelance Data Analyst:
-Delivered insights & dashboards for 2 businesses.
-Improved decision-making and reporting efficiency.
-Tools used: SQL, Python, Power BI, Tableau, Excel.
+Developed interactive dashboards in Power BI & Tableau to monitor key KPIs (sales growth, revenue trends)
+Conducted data cleaning, transformation, and analysis using SQL, Excel and Power BI for accurate reporting
+Delivered business insights that improved decision-making and highlighted areas of risk & opportunity
 
 
 
