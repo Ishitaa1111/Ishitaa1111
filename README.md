@@ -40,7 +40,7 @@ Pandas | NumPy | Matplotlib
 
 
 
-##🤝 Let’s Connect
+## 🤝 Let’s Connect
 
 📧 Email: kankubjiishita@email.com
 💼 LinkedIn: (https://www.linkedin.com/in/ishita-kankubji-19238426b/)
