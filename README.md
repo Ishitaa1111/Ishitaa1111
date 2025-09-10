@@ -17,7 +17,7 @@
 - **Business Intelligence** → Dashboard creation, KPI tracking, trend analysis  
 - **Database Management** → SQL queries, joins, CTEs, window functions  
 - **Predictive Insights** → Python (Pandas, NumPy, Matplotlib)  
-- **Business Tools** → Excel (Pivot Tables, Power Query, Advanced Formulas)  
+- **Business Tools** → Excel (Pivot Tables, Power Query, Advanced Formulas), PowerPoint for Presentations
 
 
 
