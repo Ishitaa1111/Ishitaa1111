@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Data Analyst | SQL • Python • Power BI • Tableau • Excel  
 
----
+
 
 ## 🌍 About Me  
 - 🎯 Curious problem-solver with a passion for **data storytelling** and driving **business growth through insights**  
@@ -10,7 +10,7 @@
 - 📈 Experienced with **business intelligence, predictive analytics, and data-driven decision making**  
 - 🎓 BBA (International Business) graduate with **freelance experience supporting two businesses**  
 
----
+
 
 ## 🔑 Core Skills  
 - **Data Analysis** → Cleaning, transformation, and interpretation  
@@ -19,7 +19,7 @@
 - **Predictive Insights** → Python (Pandas, NumPy, Matplotlib)  
 - **Business Tools** → Excel (Pivot Tables, Power Query, Advanced Formulas)  
 
----
+
 
 ## 💼 Experience  
 **Freelance Data Analyst**  
@@ -28,7 +28,7 @@
 - Automated reporting workflows, saving time for business teams  
 - **Tools used**: SQL, Python, Power BI, Tableau, Excel  
 
----
+
 
 ## 🛠️ Tools & Technologies  
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white)  
@@ -40,18 +40,16 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
 
----
 
-## 📊 GitHub Stats  
-![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
 
----
+
+
+
 
 ## 🤝 Let’s Connect  
 - 📧 Email: **kankubjiishita@email.com**  
 - 💼 LinkedIn: [Ishita Kankubji](https://www.linkedin.com/in/ishita-kankubji-19238426b/)  
 
----
+
 
 
