@@ -1,7 +1,7 @@
 ## Hi, I'm Ishita!
 
 ## 🌍 About Me:
-Curious problem-solver with a passion for data storytelling and business growth through insights. Focused on blending analytical skills with business knowledge to deliver measurable impact.
+Curious problem-solver with a passion for data storytelling and business growth through insights. Focused on blending analytical skills with business knowledge to deliver measurable impact.<br/>
 
 
 # 👩‍💻 Data Analyst | SQL • Python • Power BI • Tableau • Excel
